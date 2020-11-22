@@ -17,29 +17,23 @@ This project aims to use time-series tools to predict future movements in the va
 #### Time-Series Forecasting
 
 1. Decomposition using a Hodrick-Prescott Filter (Decompose the Settle price into trend and noise).
-
-
-
-![Yen Photo](Images/unit-10-readme-photo.png)
+![settle_trend](images/settle_trend.png)
+![noise](images/noise.png)
 
 2. Forecasting Returns using an ARMA Model.
-
+![arma](images/arma.jpeg)
+![arma_forecast](images/arma_forecast.png)
 
 3. Forecasting the Settle Price using an ARIMA Model.
-
-
+![arima](images/arima.jpeg)
+![arima_forecast](images/arima_forecast.png)
 
 4. Forecasting Volatility with GARCH.
+![garch](images/garch.jpeg)
+![garch_forecast](images/garch_forecast.png)
 
-
-
-Based on the results of the time series analysis and modeling, the following questions were answered:
-
-1. Based on your time series analysis, would you buy the yen now?
-
-2. Is the risk of the yen expected to increase or decrease?
-
-3. Based on the model evaluation, would you feel confident in using these models for trading?
+Based on the results of the time series analysis and modeling, the yen is expected to rise in the next 5 days. The volatility of yen is also expected to rise in the next 5 days.
+However, based on the model evaluation, I would not feel confident in using these models for trading.
 
 
 #### Linear Regression Forecasting
