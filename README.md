@@ -21,15 +21,15 @@ This project aims to use time-series tools to predict future movements in the va
 ![noise](images/noise.png)
 
 2. Forecasting Returns using an ARMA Model.
-![arma](images/arma.jpeg)
+![arma](images/arma.png)
 ![arma_forecast](images/arma_forecast.png)
 
 3. Forecasting the Settle Price using an ARIMA Model.
-![arima](images/arima.jpeg)
+![arima](images/arima.png)
 ![arima_forecast](images/arima_forecast.png)
 
 4. Forecasting Volatility with GARCH.
-![garch](images/garch.jpeg)
+![garch](images/garch.png)
 ![garch_forecast](images/garch_forecast.png)
 
 Based on the results of the time series analysis and modeling, the yen is expected to rise in the next 5 days. The volatility of yen is also expected to rise in the next 5 days.
