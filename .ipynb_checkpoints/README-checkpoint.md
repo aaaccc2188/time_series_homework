@@ -51,7 +51,7 @@ In this notebook, a Scikit-Learn linear regression model was created to predict 
 1. Data Preparation: Creating Returns and Lagged Returns and splitting the data into training data (1990-2017) and testing data (2018-2019)
 2. Fitting a Linear Regression Model
 3. Making predictions using the testing data
-4. Out-of-sample performance: Out-of-Sample Root Mean Squared Error (RMSE) = 0.41545437184712763
-5. In-sample performance: In-Sample Root Mean Squared Error (RMSE) = 0.5962037920929946
+4. Out-of-sample performance: Out-of-Sample Root Mean Squared Error (RMSE) = 0.4154832784856737
+5. In-sample performance: In-Sample Root Mean Squared Error (RMSE) = 0.5963660785073426
 
 In summary, this model performs better on out-of-sample data compared to in-sample data. 
